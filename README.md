@@ -21,7 +21,7 @@ of itself a json document but each line can be read and then json.loads() will d
 
 requires speedtest_cli - from ???
 
-<b>still to be developed</b>
+<b>speedtest_analyse.ipnb</b>
 
-aggregating the gathered stats and analysing them
+Notebood that aggregaties the gathered stats and analyses them
 
